@@ -14,7 +14,7 @@ exports.sampleRequest = function (req, res) {
     res.statusCode = 200;
     res.setHeader('Content-Type', 'application/json');
     res.end(JSON.stringify(response));
-}
+};
 
 exports.testRequest = function (req, res) {
     body = '';
@@ -35,10 +35,10 @@ exports.testRequest = function (req, res) {
         res.setHeader('Content-Type', 'application/json');
         res.end(JSON.stringify(response));
     });
-}
+};
 
 exports.invalidRequest = function (req, res) {
     res.statusCode = 404;
     res.setHeader('Content-Type', 'text/plain');
     res.end('Invalid Request');
-}
+};
