@@ -27,7 +27,6 @@ exports.testRequest = function (req, res) {
 
         postBody = JSON.parse(body);
 
-        console.log(postBody);
         var response = {
             "text": "Post Request Value is  " + postBody.value
         };
