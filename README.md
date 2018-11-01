@@ -1,7 +1,8 @@
 # Building REST apis with Nodejs without using any framework or external library
 
-This Repo is part of a blog
-The link to the blog is [link](#)
+This Repo is part of a blog.
+
+The link to the blog is [https://adityasridhar.com/posts/how-to-use-nodejs-without-frameworks-and-external-libraries](https://adityasridhar.com/posts/how-to-use-nodejs-without-frameworks-and-external-libraries)
 
 ## Pre-requisite
 
