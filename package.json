@@ -1,0 +1,25 @@
+{
+  "name": "simple-rest-apis-nodejs-without-express",
+  "version": "1.0.0",
+  "description": "simple rest apis in nodejs without express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditya-sridhar/simple-rest-apis-nodejs-without-frameworks.git"
+  },
+  "keywords": [
+    "rest",
+    "apis",
+    "node",
+    "express"
+  ],
+  "author": "Aditya Sridhar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aditya-sridhar/simple-rest-apis-nodejs-without-frameworks/issues"
+  },
+  "homepage": "https://github.com/aditya-sridhar/simple-rest-apis-nodejs-without-frameworks#readme"
+}
