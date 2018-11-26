@@ -19,12 +19,6 @@ git clone https://github.com/aditya-sridhar/simple-rest-apis-nodejs-without-fram
 
 ## Running the code
 
-Install all dependencies first using the following command.
-
-```bash
-npm install
-```
-
 `server.js` is the starting point of the code
 
 The application can be started using the command
